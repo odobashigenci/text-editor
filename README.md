@@ -43,7 +43,7 @@
   
   ## Link
   
-  To lunch the app click here  👉  [![Heroku Badge](https://www.herokucdn.com/deploy/button.svg)](https://note-taker-genci.herokuapp.com/notes)
+  To lunch the app click here  👉  [![Heroku Badge](https://www.herokucdn.com/deploy/button.svg)](https://a-new-text-editor.herokuapp.com/)
 
   </br>
   
@@ -51,7 +51,7 @@
   
   <div align = "center">
   
-  ![Preview](Develop/assets/images/demo-preview.png)
+  ![Preview](assets/images/demo-preview.png)
   
   </div>
   
