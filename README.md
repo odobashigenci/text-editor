@@ -17,6 +17,9 @@
 
   ## Table of Content
   
+- [text-editor](#text-editor)
+  - [Description](#description)
+  - [Table of Content](#table-of-content)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Link](#link)
@@ -24,6 +27,8 @@
   - [License](#license)
   - [Contributing](#contributing)
   - [Questions and Issues](#questions-and-issues)
+    - [GitHub account](#github-account)
+    - [Email me](#email-me)
   
  
   </br>
@@ -51,7 +56,7 @@
   
   <div align = "center">
   
-  ![Preview](Develop/public/assets/pictures/preview.png)
+  ![Preview](Develop\assets\images\demo-preview.png)
   
   </div>
   
