@@ -1,8 +1,6 @@
 # text-editor
 
-  # Note Taker
-
-  As a small business owner I want to be able to write and save notes, so that I can organize my thoughts and keep track of tasks I need to complete.
+  This is a single page application that meets the PWA criteria, and also is functional offline. 
 
   </br>
   
@@ -12,16 +10,13 @@
   
   ## Description
   
-  Through this app you can add and delete notes so you stay organized and keep track of the tasks you have to complete in your business.
+  This app features a number of data persistence techniques that serve as redundancy in case one of the options are not supported by the browser.
+  With this app you can create notes or code snippets with or without an internet connection, and you can reliably retrieve them for later use.
   
   </br>
 
   ## Table of Content
   
-- [text-editor](#text-editor)
-- [Note Taker](#note-taker)
-  - [Description](#description)
-  - [Table of Content](#table-of-content)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Link](#link)
@@ -29,23 +24,20 @@
   - [License](#license)
   - [Contributing](#contributing)
   - [Questions and Issues](#questions-and-issues)
-    - [GitHub account](#github-account)
-    - [Email me](#email-me)
-
+  
+ 
   </br>
 
   ## Installation
   
-  To install this app clone the code into your preferred directory.
+  To install this app clone the code into your preferred directory, and run the "npm install" command in your terminal.
   
   </br>
   
   ## Usage
   
-  Run the "npm start" command in yur terminal, and then run "http://localhost:3001/notes" in your browser. Or simply launch the app by following     the link below. 
-  Enter a note title that you chose, and below it enter the notes that you need to take down. 
-  A save button will appear on the top right corner of the screen. Click it once you are finished taking the notes. This note will be saved in the left column,
-  and you can access it any time you need to.
+  You can use this app by clicking the link provided below 👇
+  To use it offline, you can download it by clicking the "download" icon in the right corner of the link bar of your brouwser.
   
   </br>
   
